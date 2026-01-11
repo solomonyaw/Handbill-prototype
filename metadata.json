@@ -1,0 +1,8 @@
+{
+  "name": "Handbill",
+  "description": "A comprehensive advertising platform connecting advertisers with viewers, featuring a commission-based marketing model for warehousemen and agents.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
